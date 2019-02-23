@@ -1,2 +1,2 @@
-# DRAF
-Deep Reinforced Attention Framework
+# DRGA
+Deep Reinforcement-learning Guided Attention
